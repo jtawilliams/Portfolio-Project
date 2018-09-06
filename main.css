@@ -1,0 +1,29 @@
+ul {
+    background-color: blue;
+    color: orange;
+}
+ul, img {
+    border: 20px solid blue;
+    justify-content: center;
+    justify-content: space-around;
+    color: blue;
+    background-color: orange;
+}
+
+body {
+  background-color: orange;
+  color: blue;
+  text-align: center;
+}
+h1 {
+  color: blue;
+}
+.card-body {
+  border: 20px solid blue;
+  background-color: orange;
+  text-align: center;
+}
+img {
+  height: 500px;
+  width: 50%;
+}
