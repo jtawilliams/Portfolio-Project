@@ -2,11 +2,11 @@ ul {
     background-color: blue;
     color: orange;
 }
-ul, img {
+ul,img {
     border: 20px solid blue;
     justify-content: center;
     justify-content: space-around;
-    color: blue;
+    color: orange;
     background-color: orange;
 }
 
@@ -26,4 +26,11 @@ h1 {
 img {
   height: 500px;
   width: 50%;
+}
+.P {
+  border: 20px solid blue;
+  justify-content: center;
+  justify-content: space-around;
+  color:blue;
+  background-color: orange;
 }
